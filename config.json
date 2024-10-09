@@ -1,10 +1,10 @@
 {
-	"Prefijo": ".",
+	"Prefijo": "/",
 	"MultiIdioma": [
 		true,
 		""
 	],
-	"Propietario": [
+	"Propietario": [Em
 		[
 			"51991378809",
 			"Matt_Mdz",
@@ -22,7 +22,7 @@
 	],
 	"Mode": "default",
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "Kaz-Bot",
 	"MinimoDeUsuarios": 3,
 	"Limits": {
 		"gms": 10,
